@@ -1,4 +1,4 @@
-TOKEN = "5694892236:AAEdUQ95ejLODRQohMaePJT_jnG4ujJVbSQ"
+TOKEN = "токен по запросу"
 
 keys = {
     'Рубль' : 'RUB',
